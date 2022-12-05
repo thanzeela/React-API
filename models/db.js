@@ -3,7 +3,7 @@ const {Sequelize, DataTypes} = require('sequelize');
 
 // const {Sequelize, DataTypes} = require('sequelize')
 
-const sequelize = new Sequelize('apiWithReact', 'root','308568', {
+const sequelize = new Sequelize('reactapi', 'root','Thanzi@2001', {
     host:'localhost',
     dialect: 'mysql'
 })
